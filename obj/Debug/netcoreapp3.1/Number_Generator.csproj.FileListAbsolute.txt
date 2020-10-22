@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.AssemblyInfo.cs
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.exe
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.deps.json
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.runtimeconfig.json
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.runtimeconfig.dev.json
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.dll
+C:\Users\User\source\repos\Number_Generator\bin\Debug\netcoreapp3.1\Number_Generator.pdb
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.dll
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.pdb
+C:\Users\User\source\repos\Number_Generator\obj\Debug\netcoreapp3.1\Number_Generator.genruntimeconfig.cache
